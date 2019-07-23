@@ -5,7 +5,7 @@ This repository hosts the links to training code, training datasets, trained mod
 
 DeepMAR Simulated dataset and Simulation Setup used to generate the datasets: https://drive.google.com/drive/folders/1YAgAX5bDPT9qJF077Wu38OgsIOBZ4lFJ
 
-Testing code, trained models, and reproducible results available via CodeOcean: https://codeocean.com/capsule/5430268/tree
+Testing code, trained models, and reproducible results available via CodeOcean: https://codeocean.com/capsule/0510438
 
 Training codes used in our work: https://drive.google.com/drive/folders/1muMlijUY9f38AfeyJxiPDO3fyC84jbe0?usp=sharing
 
